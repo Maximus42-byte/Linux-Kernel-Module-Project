@@ -1,0 +1,16 @@
+
+
+Mahdi Saieedi, Mohammad Salehi
+
+Write a kernel module that registered as character device and a user space program for relation with moduel.
+
+
+
+Module writed in "mym.c"
+
+Program for user space writed in "my.c"
+
+"share.h" is for relation between module and user space
+
+Device that registered is "myd" on "/dev/myd"
+
